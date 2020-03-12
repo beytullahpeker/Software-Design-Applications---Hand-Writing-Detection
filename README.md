@@ -1,4 +1,4 @@
-# Software-Design-Applications---Hand-Writing-Detection
+# Software-Design-Applications--Hand-Writing-Detection
 Term Project
 Secreenshot for ZipMaker!
 
